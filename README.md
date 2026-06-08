@@ -1,6 +1,6 @@
-# aurora-zfs-example
+# zfs-aurora
 
-# I will not maintain this, this is purely an example implementation!
+
 
 This should work with base fedora atomic desktop images as well.
 
